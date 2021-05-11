@@ -1,4 +1,4 @@
-package unidad3;
+package unidad2;
 
 public class Directivo extends Empleado{
     

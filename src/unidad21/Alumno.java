@@ -1,5 +1,5 @@
 
-package unidad31;
+package unidad21;
 public class Alumno extends Persona {
     
       protected String grupo;
